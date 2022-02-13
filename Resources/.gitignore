@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 .DS_Store
 bokeh_plot.png
-
+san_francisco_housing-checkpoint.ipynb
